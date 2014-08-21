@@ -40,3 +40,9 @@ Packaging ABC123
 Check NSIS folder to see the packaging using NullSoft Installer.
 Copy  msvcm90.dll, msvcp90.dll, msvcr90.dll from Visual Studio to NSIS/Microsoft.VC90.CRT/ and copy ABC123.exe to NSIS/
 
+
+Get Binaries
+------------
+
+- [ABC123.v01.Setup.exe](https://www.dropbox.com/s/9cz8j0ik73vzoma/ABC123.v01.Setup.exe)
+- [ABC123.exe](https://www.dropbox.com/s/dxaebkyti620nww/ABC123.exe)
