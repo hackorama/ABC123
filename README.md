@@ -22,7 +22,7 @@ Bring Up Visual Studio Command Prompt
 
 Start->All Programs->Visual C++ X.X XXX Edition->Visual Studio Tools->Visual Studio Command Prompt
 
-Use name from Visual Studio command prompt to build using Makefile
+Use nmake from Visual Studio command prompt to build using Makefile
 
     cd ABC123
     nmake /f Makefile res
